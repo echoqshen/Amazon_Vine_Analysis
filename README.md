@@ -5,7 +5,31 @@
 * We focused on the US reviews for softwares.
 
 ## Results:
+### Total number of reviews
+* Vine reviews
+
+![](https://github.com/echoqshen/Amazon_Vine_Analysis/blob/main/images/vine%20review.png)
+* Non-Vine reviews
+
+![](https://github.com/echoqshen/Amazon_Vine_Analysis/blob/main/images/non-Vine%20review.png)
+
+### Total number of 5-star reviews
+* Vine reviews
+
+![](https://github.com/echoqshen/Amazon_Vine_Analysis/blob/main/images/5%20star%20vine.png)
+* Non-Vine reviews
+
+![](https://github.com/echoqshen/Amazon_Vine_Analysis/blob/main/images/5%20star%20non%20vine.png)
+
+### Percentage of 5-star reviews
+* Vine reviews
+
+![](https://github.com/echoqshen/Amazon_Vine_Analysis/blob/main/images/5%20star%20vine%20percent.png)
+
+* Non-Vine reviews
+
+![](https://github.com/echoqshen/Amazon_Vine_Analysis/blob/main/images/5%20star%20non%20vine%20percent.png)
 
 ## Summary
-51% of the reviews in the Vine program were 5 stars reviews whereas the percentage in the non-Vine reviews is only 39%. This describes a positivity bias for reviews in the Vine program.
-Additionally we could analyse the statistical distribution (mean, median and mode) of the star rating for the Vine and non-Vine reviews.
+* For the software category, 41% of the reviews in the Vine program were 5 stars reviews whereas the percentage in the non-Vine reviews is only 29%. This describes a positivity bias for reviews in the Vine program.
+* We could perform additional analysis on the statistical distribution (mean, median and mode) of the star rating for the Vine and non-Vine reviews.
